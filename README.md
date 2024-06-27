@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**aradiyo/aradiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ali Alaradi 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a software developer specializing in Go, JavaScript, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages**: Go, JavaScript, Python
+- **Frameworks**: React, Node.js
+- **Tools**: Docker, Git
+
+## 📊 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aradiyo&show_icons=true&theme=radical)
+
+## 🚀 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aradiyo&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=aradiyo&theme=onedark)
+
+## 🔗 Links
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/aradiyo)
+
