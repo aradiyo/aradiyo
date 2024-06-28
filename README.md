@@ -1,7 +1,7 @@
 # Hi there, I'm Ali Alaradi 👋
 
 ## 🚀 About Me
-I'm a software developer specializing in Go, JavaScript, and more.
+I'm a software developer specializing in Go, JavaScript, Rust, SQL, Python, Ruby, Bash, C, and more.
 
 ## 🛠 Skills
 ### Languages
@@ -13,6 +13,8 @@ I'm a software developer specializing in Go, JavaScript, and more.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ### Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
